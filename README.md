@@ -7,7 +7,7 @@ const MintoD3v = {
     country: "Vietnam",
     jobs: "Developer",
     languages: ["JavaScript", "TypeScript", "PHP"],
-    tech: ["React", "NextJS", "NodeJS", "ExpressJS", "ElectronJS", "Git"]
+    tech: ["React", "NextJS", "NodeJS", "ExpressJS", "ElectronJS", "Git", "Deno"]
 };
 ```
 
